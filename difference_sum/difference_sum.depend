@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603453316 source:d:\c programs\difference_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
